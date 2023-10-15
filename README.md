@@ -1,4 +1,4 @@
-# Magic Code
+# Magic Code Reviews
 
 ChatGPT-driven code reviews in VS Code
 
