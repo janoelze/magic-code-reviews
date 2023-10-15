@@ -1,7 +1,14 @@
 {
 	"name": "magic-code-reviews",
-	"displayName": "magic-code-reviews",
+	"displayName": "Magic Code Reviews",
 	"description": "ChatGPT-driven code reviews in VS Code",
+  "author": "Jan Oelze",
+  "publisher": "JanOelze",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janoelze/magic-code-reviews."
+  },
+  "icon": "icon.png",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.83.0"
